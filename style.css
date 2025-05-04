@@ -103,7 +103,7 @@ html{
 }
 .contact-us{
     padding: 20px;
-    width: 1200px;    
+    width: 900px;    
     background-color: sandybrown;
     border-radius: 10px;
     border: 5px solid white;
@@ -111,7 +111,7 @@ html{
     box-sizing: border-box;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 70px;
+    margin-left: 220px;
     position: static;
    
 }
@@ -144,7 +144,7 @@ input, select {
     padding: 15px 30px;
     font-size: 16px;
     font-weight: bold;
-    margin-left: 480px;
+    margin-left: 350px;
     border: none;
     cursor: pointer;
     border-radius: 50px;
