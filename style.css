@@ -103,7 +103,7 @@ html{
 }
 .contact-us{
     padding: 20px;
-    width: 1000px;    
+    width: 1200px;    
     background-color: sandybrown;
     border-radius: 10px;
     border: 5px solid white;
@@ -156,8 +156,8 @@ input, select {
     transform: scale(1.070);
 }
 footer p{
-    color: white;
     text-align: center;
+    font-weight: bold;
 }
 @media (max-width: 768px) {
     .menu-item {
