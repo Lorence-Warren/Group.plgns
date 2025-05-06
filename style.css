@@ -101,7 +101,7 @@ html{
     border-radius: 10px;
     text-align: center;
 }
-.contact-us{
+.feedback{
     padding: 20px;
     width: 900px;    
     background-color: sandybrown;
@@ -111,11 +111,11 @@ html{
     box-sizing: border-box;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 220px;
+    margin-left: 260px;
     position: static;
    
 }
-.contact-us h2 {
+.feedback h2 {
     margin-bottom: 20px;
     text-align: center;
     font-weight: bold;
@@ -155,6 +155,18 @@ input, select {
 }
 .msg-btn:hover {
     transform: scale(1.070);
+}
+.thanks h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 150px;
+}
+.thanks h3{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    
 }
 footer p{
     text-align: center;
